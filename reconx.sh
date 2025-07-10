@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Define script paths
-remote_vuln_scan="./remote_pentest.sh"
-vuln_scan="./pentest.sh"
-log_analysis="./Log_Analysis_Script.py"
+remote_vuln_scan="./remote_scan.sh"
+vuln_scan="./local_scan.sh"
+log_analysis="./log_analysis.py"
 
 # Colors
 RED="\e[31m"
